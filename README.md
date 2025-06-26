@@ -9,6 +9,7 @@ This is a simple and responsive personal portfolio website created using **HTML 
 - Sections included:
   - About Me
   - My Education
+  - -My projects made
   - My Skills learnt or learning
   - Contact
 
